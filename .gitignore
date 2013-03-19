@@ -1,4 +1,5 @@
 syntax: glob
+.rvmrc
 .DS_Store
 *.sw*
 *.gem
